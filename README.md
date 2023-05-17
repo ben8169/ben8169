@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben8169&layout=compact)](https://github.com/ben8169/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben8169&show_icons=true&theme=radical)
