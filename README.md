@@ -1,20 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%&fontSize=80)
-<!--
-**ben8169/ben8169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 
+<div>
+  <a href="https://ben8169.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.notion.so/e3f3fc9d54064749934196113d4afaaa" target="_blank"><img src="https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="ben8169@outlook.kr" target="_blank"><img src="https://img.shields.io/badge/ben8169@outlook.kr-0094F5?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+
+
+
+</div>
 <div align="center">
-  <p>Once I've Used</p>
+  <p style="color:red">👍The tool I'm using...👍</p>  
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
@@ -26,14 +26,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
+<hr>
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben8169&layout=compact)](https://github.com/ben8169/github-readme-stats)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben8169&show_icons=true&theme=radical)
+<span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben8169&show_icons=true&theme=radical)</span>
+<span> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben8169&layout=compact)](https://github.com/ben8169/github-readme-stats)</span>
 
-</div>
 
 
 
